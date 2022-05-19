@@ -1,1 +1,1 @@
-My first readme
+My README file in alx-pre_course directory
