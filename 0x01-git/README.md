@@ -7,3 +7,4 @@ typed per line in this file tho.
 
 I'll check it out and make my next README.md a standard one.
 
+Future me, this was your first README!
